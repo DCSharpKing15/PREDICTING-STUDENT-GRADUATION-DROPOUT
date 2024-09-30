@@ -33,14 +33,14 @@ Before you begin, ensure you have met the following requirements:
    2. In the code section labeled General, locate the line:
 
       
-      df = pd.read_csv("put your path here")
+      df = pd.read_csv('/content/drive/My Drive/dataset.csv')
       
 
-   3. Replace the placeholder put your path here with the actual path of your dataset file. The line should look like
+   3. Replace the placeholder and put your path here with the actual path of your dataset file. The line should look like
    this:
 
       
-      df = pd.read_csv("path/to/your/dataset.csv")
+      df = pd.read_csv('path/to/your/dataset.csv')
       
 
 ### 4. Run the Code
