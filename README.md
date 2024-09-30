@@ -11,7 +11,7 @@ Also here is a link to the Google Colab: https://colab.research.google.com/drive
 2. Put the data set in your drive
 
 ***Opening and running the code***
-1. Download the ipynb file called Statistical_theory_project
+1. Download the ipynb file called **Statistical_theory_project**
 2. Open it using any Python running environment
 3. Copy the path of the dataset from your drive
 4. In the **General** area, paste the path of the dataset in the code line  ---- df = pd.read_csv("put your path here") ---- where it is said to put your path
