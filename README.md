@@ -10,7 +10,7 @@ Also here is a link to the Google Colab: https://colab.research.google.com/drive
 1. Download the dataset
 2. Put the data set in your drive
 
-
+!*------------*!
 
 *opening and running the code*
 1. Download the ipynb file and open it using any Python running environment
