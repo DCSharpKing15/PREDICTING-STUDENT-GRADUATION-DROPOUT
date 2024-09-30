@@ -11,7 +11,7 @@ Also here is a link to the Google Colab: https://colab.research.google.com/drive
 2. Put the data set in your drive
 
 *opening and running the code*
-3. download the ipynb file and open it using any Python running environment
-4. copy the path of the dataset from your drive
-5. In the general area, paste the path of the dataset in the line of ---- df = pd.read_csv("put your path here") ---- where it is said
-6. Run the code and enjoy the many operations that are being done on the data set :) 
+1. Download the ipynb file and open it using any Python running environment
+2. Copy the path of the dataset from your drive
+3. In the general area, paste the path of the dataset in the line of ---- df = pd.read_csv("put your path here") ---- where it is said
+4. Run the code and enjoy the many operations that are being done on the data set :) 
