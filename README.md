@@ -8,7 +8,7 @@ Also here is a link to the Google Colab: https://colab.research.google.com/drive
 
 ***Downloading and where do put the dataset***
 1. Download the dataset
-2. Put the data set in your drive
+2. Put the data set in your Google Drive wherever you want
 
 ***Opening and running the code***
 1. Download the ipynb file called **Statistical_theory_project**
