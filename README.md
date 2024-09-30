@@ -1,6 +1,6 @@
 # STUDENT-DROPOUT-GRADUATION-PREDICTOR
 
-This project was made by David Goldstein, Yonatan Navon, and Ariel Friedlander from Bar_Ilan University in the
+This project was done by David Goldstein, Yonatan Navon, and Ariel Friedlander from Bar-Ilan University in the
 Statistical Theory course in 2024
 
 The repository contains the dataset, the article we wrote about our work and findings, and the code we used. You can use
